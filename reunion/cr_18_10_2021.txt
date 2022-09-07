@@ -1,0 +1,15 @@
+Réunion du 18 octobre 2021
+
+- Une réunion toutes les 2 semaines (un compte-rendu après chaque réunion) + suivi constant via gitlab.
+
+- Objectif du premier semestre : obtenir une image en relief avec le fond de texture OSM ou autre source (IGN)
+
+- Trouver et comparer des sources de données DEM (ex : Copernic), apprendre à les exploiter.
+
+- Si utilisation d'OSM comme source de données : récupérer les données vectorielles d’OSM et trouver comment les convertir au format Bitmap par exemple.
+
+- Étudier les différences entre les projections des différentes sources de données.
+
+- Choisir un langage de programmation + pourquoi celui-là ?
+
+- Travail sur le kick-off dans un premier temps. Envoi des diapositives si besoin.
